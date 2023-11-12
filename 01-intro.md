@@ -1,18 +1,17 @@
 ---
-title: BASH novice
-teaching: 150
+title: BASH novice and SSH keys
+teaching: 180 minutes
 exercises: 0
 objectives:
 - "Understand why learing the UNIX shell is a good idea"
 - "Automating repetitive tasks"
 - "Documenting data maniplulation steps for reproducible reseach"
+- "Setting up and using SSH keys"
 ---
 # Bash novice and SSH keys
 
 1. [This lesson](#this-lesson)
 2. [Why learn to use the shell?](#why-learn-to.use-the-shell)
-3. [Copying the key to VGL](#copying-the-key-to-vgl)
-4. [Furter reading](#further-reading)
 
 ## This lesson
 
@@ -31,6 +30,14 @@ This key will also be useful for the Gitlab lesson following this lesson.
 
 ### SSH keys
 - [SSH keys](https://arnsteio.github.io/ssh-keys-2023-11/)
+
+## Why learn to use the shell?
+
+The UNIX shell is a tool that allows users to perform complex and powerful tasks in a way that is easily possible to automate and reproduce. 
+It is easy to combine simple tasks into advanced workflows. 
+Using the shell is fundamental to essential tasks like using HPC systems. 
+
+In this lesson we explore this tool together.  
 
 ---
 [Previous slide](README.md)
