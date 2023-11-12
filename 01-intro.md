@@ -17,7 +17,7 @@ objectives:
 ## This lesson
 
 I will spend somwhat more than two hours on the UNIX shell, basing my teaching on the Software Carpentry [Shell Novice](https://swcarpentry.github.io/shell-novice/) lesson. 
-Ii is unlikely we will get to the end of the lesson, but you may follow though to the end in your own time.
+It is unlikely we will get to the end of the lesson, but you may follow though to the end in your own time.
 If you are already familiar with the shell you may wish to go to the [Shell Extras](https://carpentries-incubator.github.io/shell-extras/) lesson instead, and follow that through self-study. 
 
 At 11:15 I will go through SSH keys and we will all generate an SSH key pair and make sure our public key is uploaded to the PPI machines. 
