@@ -23,13 +23,15 @@ If you are already familiar with the shell you may wish to go to the [Shell Extr
 At 11:15 I will go through SSH keys and we will all generate an SSH key pair and make sure our public key is uploaded to the PPI machines. 
 This key will also be useful for the Gitlab lesson following this lesson. 
 
-## Shell nowice
+## Shell novice
 - [Shell Novice](https://swcarpentry.github.io/shell-novice/)
-alternatively, in your own time,
+
+Alternatively, in your own time,
 - [Shell Extras](https://carpentries-incubator.github.io/shell-extras/) 
 
 
 ### SSH keys
-[SSH keys](https://arnsteio.github.io/ssh-keys-2023-11/)
+- [SSH keys](https://arnsteio.github.io/ssh-keys-2023-11/)
 
+---
 [Previous slide](README.md)
