@@ -7,7 +7,7 @@ objectives:
 - "Automating repetitive tasks"
 - "Documenting data maniplulation steps for reproducible reseach"
 ---
-# Introduction to the UNIX shell
+# Bash novice and SSH keys
 
 1. [This lesson](#this-lesson)
 2. [Why learn to use the shell?](#why-learn-to.use-the-shell)
@@ -25,9 +25,8 @@ This key will also be useful for the Gitlab lesson following this lesson.
 
 ## Shell novice
 - [Shell Novice](https://swcarpentry.github.io/shell-novice/)
-
-Alternatively, in your own time,
-- [Shell Extras](https://carpentries-incubator.github.io/shell-extras/) 
+- Alternatively, in your own time,
+    - [Shell Extras](https://carpentries-incubator.github.io/shell-extras/) 
 
 
 ### SSH keys
