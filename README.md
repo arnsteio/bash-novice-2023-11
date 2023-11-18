@@ -4,7 +4,7 @@ Workshop name: Bash novice and SSH keys
 
 Instructors: Arnstein Orten
 
-Helpers: TBD
+Helpers: Arnulf Heimsbakk
 
 Length: 3 hours minutes
 
